@@ -4,14 +4,14 @@
 
 # Hi, I'm Ripped
 
-### Lead guitarist of NATP · AI / Web3 / Creative Tools Explorer
+### Lead guitarist of NATP · Exploring AI, Web3, and Creative Tools
 
 **From NATP riffs to AI builds — turning sound, ideas, and code into something real.**
 
 <br />
 
 ![Musician](https://img.shields.io/badge/Musician-111827?style=for-the-badge&logo=applemusic&logoColor=00f5ff)
-![Lead Guitarist](https://img.shields.io/badge/Lead%20Guitarist-18181b?style=for-the-badge&logo=rockstargames&logoColor=ff2bd6)
+![Lead Guitarist](https://img.shields.io/badge/Lead%20Guitarist-18181b?style=for-the-badge&logo=musicbrainz&logoColor=ff2bd6)
 ![AI Learner](https://img.shields.io/badge/AI%20Learner-0f172a?style=for-the-badge&logo=openai&logoColor=7dd3fc)
 ![Web3 Explorer](https://img.shields.io/badge/Web3%20Explorer-111827?style=for-the-badge&logo=ethereum&logoColor=a78bfa)
 ![Creative Tools](https://img.shields.io/badge/Creative%20Tools-18181b?style=for-the-badge&logo=figma&logoColor=f472b6)
@@ -38,6 +38,16 @@
 - AI coding tools
 - Web3 basics
 - Music-tech product ideas
+
+---
+
+## Projects
+
+* 🐍 **Snake Game** — my first coding practice project, built while learning GitHub and development workflow.
+* 🔗 **Learn Solidity** — exploring Web3, blockchain, and smart contract basics.
+* 🌐 **Personal Website** — building my own developer homepage and creative identity.
+* 🎤 **WishLIVE** — a hackathon-born music-tech idea exploring live performance, audience wishes, AI agents, and Web3-powered ticketing.  
+  Technical write-up by teammate: [Building WishLive](https://lora-sys.github.io/loraSys/blog/WishLIve)
 
 ---
 
@@ -87,17 +97,6 @@ I started from live music and guitar, where every sound needs timing, energy, an
 
 ---
 
-## Connect
-
-- GitHub: [@Ripped-sys](https://github.com/Ripped-sys)
-- Email: ystree111@qq.com
-- Band: NAT Punch
-- Douyin: NATP / 内网穿透
-- Bilibili: NATP / 内网穿透
-- NetEase Cloud Music: NATP / 内网穿透
-
----
-
 ## Mission
 
 > “From NATP riffs to AI builds — turning sound, ideas, and code into something real.”
@@ -107,3 +106,12 @@ I started from live music and guitar, where every sound needs timing, energy, an
 ### Stage energy · Creative technology · Building in public
 
 </div>
+
+---
+
+## Connect
+
+* GitHub: [@Ripped-sys](https://github.com/Ripped-sys)
+* Email: ystree111@qq.com
+* Band: NATP / 内网穿透
+* Music & Social: Building NATP's presence across Douyin, Bilibili, NetEase Cloud Music, and Xiaohongshu.
