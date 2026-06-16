@@ -87,6 +87,17 @@ I started from live music and guitar, where every sound needs timing, energy, an
 
 ---
 
+## Connect
+
+- GitHub: [@Ripped-sys](https://github.com/Ripped-sys)
+- Email: ystree111@qq.com
+- Band: NAT Punch
+- Douyin: NATP / 内网穿透
+- Bilibili: NATP / 内网穿透
+- NetEase Cloud Music: NATP / 内网穿透
+
+---
+
 ## Mission
 
 > “From NATP riffs to AI builds — turning sound, ideas, and code into something real.”
