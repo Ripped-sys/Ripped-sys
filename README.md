@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ripped 👋
 
-<!--
-**Ripped-sys/Ripped-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead guitarist of **NATP**, now exploring **AI, Web3, code, and creative tools**.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎸 Lead guitarist of NATP
+- 🤖 Learning AI tools and agent-based development
+- 🌐 Interested in Web3, blockchain, and creative technology
+- 🛠️ Building projects step by step
+
+## Current focus
+
+- Learning GitHub, VS Code, and development workflows
+- Building small projects to improve my coding skills
+- Exploring how AI and Web3 can connect with live music
+
+## Identity
+
+From NATP riffs to AI builds — turning sound, ideas, and code into something real.
 -->
